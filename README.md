@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Getting and Cleaning Data Project
 Repo for the submission of the course project for the Johns Hopkins Getting and Cleaning Data course.
 Overview
@@ -17,6 +18,10 @@ You can find additional information about the variables, data and transformation
 # Getting-and-Cleaning-Data_Project-Work
 Project Work
 >>>>>>> 9520c771f4961d8925cef5f947febd8cc9deb573
+=======
+# Getting-and-cleaning-data-project-work
+Project work
+>>>>>>> 765151bae75466f1c3e638c31081d3b6e056da07
 =======
 # Getting-and-cleaning-data-project-work
 Project work
